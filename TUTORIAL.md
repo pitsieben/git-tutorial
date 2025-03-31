@@ -25,8 +25,8 @@ By the end of this session, you will know how to do the actions that you will ne
 ### **Prerequisites**
 
 You need to ensure that:
-1. You have git installed on your machine, google it.
-2. You have set up your GitHub account on your terminal, it's like 'signing in' to your account to work with remote repositories. Google it.
+1. You have git installed on your machine, google it. (Hint - on windows, install gitbash terminal)
+2. You have set up your GitHub account on your terminal, it's like 'signing in' to your account to work with remote repositories. Google it...or watch ME explain it in [this video](https://www.youtube.com/watch?v=CjIViY2LXbQ&t=1s)! 
 
 * You should google it because it's a good exercise, not because the author was not bothered to include it in the resources, because they did put it. 
 
